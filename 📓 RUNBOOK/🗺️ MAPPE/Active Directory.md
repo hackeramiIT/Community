@@ -1,0 +1,1 @@
+![[pentesting_active_directory_dark.png]]
