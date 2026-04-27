@@ -1,1 +1,0 @@
-![[LINUX PRIV ESC.png]]
